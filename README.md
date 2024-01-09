@@ -1,4 +1,4 @@
-# Comparing Face Recognition Algorithms and Methods
+# Comparing Face Recognition Algorithms and Methods (K-NN, PCA< LDA, SVM, LeNet5)
 
 ## Dataset
 **Olivetti faces dataset (AT&T Laboratories Cambridge)**
@@ -20,6 +20,7 @@ The original dataset consisted of 92 x 112, while the version available here con
 | PCA      | 72%      | 88%      | 89%      |
 | LDA      | 73%      | 90%      | **97%**  |
 | SVM      | **76%**  | **90%**  | 95%      |
+| LeNet5 (with data augmentation)   | 3%  | 77%  | 88%      |
 
 - Scenario 1: 20% of the images for training and 80% for testing
 - Scenario 2: 50% of the images for training and 50% for testing
