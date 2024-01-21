@@ -1,4 +1,4 @@
-# Comparing Face Recognition Algorithms and Methods (K-NN, PCA< LDA, SVM, LeNet5)
+# Comparing Face Recognition Algorithms and Methods (K-NN, PCA, LDA, SVM, LeNet5)
 
 ## Dataset
 **Olivetti faces dataset (AT&T Laboratories Cambridge)**
